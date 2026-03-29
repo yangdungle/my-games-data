@@ -1,1 +1,27 @@
 
+[
+  {
+    "id": "piano-kids",
+    "title": "Nate's Magic Piano",
+    "description": "Learn and play your favorite nursery rhymes!",
+    "url": "https://your-piano-game-link.com",
+    "icon": "🎹",
+    "category": "Music"
+  },
+  {
+    "id": "new-game",
+    "title": "My New Awesome Game",
+    "description": "Check out my latest creation!",
+    "url": "https://your-new-game-link.com",
+    "icon": "🚀",
+    "category": "Action"
+  },
+  {
+    "id": "new-game2",
+    "title": "My New Awesome Game 2",
+    "description": "Check out my latest creation!",
+    "url": "https://your-new-game-link.com",
+    "icon": "🚀",
+    "category": "Action",
+    "isNew": true
+  }]
