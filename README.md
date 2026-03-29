@@ -1,3 +1,15 @@
+On app refresh from ai studio to Xcode. Open terminal move into the project directory using cd, ls pwd cd.. cd ..
+In terminal run
+npm install
+npm run build
+npx cap sync
+
+On a new project run these
+npm install
+npm run build
+npx cap add ios
+npx cap open ios
+
 this is to list new games, file look like this. [
   {
     "id": "piano-kids",
