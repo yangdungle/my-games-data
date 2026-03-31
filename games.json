@@ -9,4 +9,15 @@
     "category": "Action",
     "isNew": false,
     "isUpdate": false
-  }]
+  }
+  {
+    "id": "NG_2",
+    "title": "Justine's NailArt Studio",
+    "description": "Check out my latest creation!",
+    "url": "https://your-new-game-link.com",
+    "icon": "🚀",
+    "category": "Action",
+    "isNew": false,
+    "isUpdate": true
+  }
+]
