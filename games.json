@@ -1,11 +1,12 @@
 
 [
   {
-    "id": "new-game2",
-    "title": "Coming soon",
+    "id": "NG_1",
+    "title": "Nate's Piano Drop",
     "description": "Check out my latest creation!",
     "url": "https://your-new-game-link.com",
     "icon": "🚀",
     "category": "Action",
     "isNew": false
+    "isUpdate": false
   }]
