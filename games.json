@@ -2,10 +2,10 @@
 [
   {
     "id": "NG_1",
-    "title": "Nate's Piano Drop",
+    "title": "Nate's Music Drop",
     "description": "Check out my latest creation!",
-    "url": "https://your-new-game-link.com",
-    "icon": "🚀",
+    "url": "https://apps.apple.com/us/app/nates-music-drop/id6761322741",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/3a/e6/4c3ae65b-4086-74a0-6055-3b983e748ff6/Placeholder.mill/48x48bb-75.webp",
     "category": "Action",
     "isNew": false,
     "isUpdate": true,
