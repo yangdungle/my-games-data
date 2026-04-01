@@ -9,7 +9,7 @@
     "category": "Action",
     "isNew": false,
     "isUpdate": true,
-    "version": "1.5" 
+    "version": "1.6" 
   },
   {
     "id": "NG_2",
@@ -19,7 +19,7 @@
     "icon": "🚀",
     "category": "Action",
     "isNew": false,
-    "isUpdate": true,
-    "version": "1.6.1" 
+    "isUpdate": false,
+    "version": "1.0" 
   }
 ]
