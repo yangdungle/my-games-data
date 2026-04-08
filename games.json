@@ -32,7 +32,7 @@
   "isNew": false,
   "isUpdate": false,
   "version": "1.0",
-  "data-usage": false,
+  "firebase-data-usage": false,
   "message": [
     "This is a message from the developer",
     "Have a nice day",
