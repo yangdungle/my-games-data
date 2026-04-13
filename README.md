@@ -1,3 +1,9 @@
+check list before going live. 
+Turn testing off
+Enabled Global Testing: Set initializeForTesting: true in the AdMob initialization to ensure the plugin is in the correct mode for simulator testing.
+use live ad id.
+
+
 On app refresh from ai studio to Xcode. Open terminal move into the project directory using cd, ls pwd cd.. cd ..
 In terminal run
 npm install
