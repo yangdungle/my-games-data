@@ -35,7 +35,11 @@
   "firebase-data-usage": true,
   "message": [
     "Thank You!! for dowloading the app. Enjoy the game."
-      ]
+      ],
+  "ads-easy-level-1": false,
+  "ads-easy-level-2": false,
+  "ads-easy-level-3": false
+  
 }
   
 ]
