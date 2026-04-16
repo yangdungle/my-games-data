@@ -36,9 +36,9 @@
   "message": [
     "Thank You!! for dowloading the app. Enjoy the game."
       ],
-  "ads-easy-level-1": false,
-  "ads-easy-level-2": false,
-  "ads-easy-level-3": false
+  "ads-easy-level-1": true,
+  "ads-easy-level-2": true,
+  "ads-easy-level-3": true
   
 }
   
