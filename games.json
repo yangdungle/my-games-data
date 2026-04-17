@@ -40,6 +40,25 @@
   "ads-easy-level-2": true,
   "ads-easy-level-3": true
   
+},
+  {
+   "id": "com.mergeme.app",
+  "title": "Mergeme",
+  "description": "Check out MergeMe",
+  "url": "https://apps.apple.com/ca/app/snapkist/id6762061234",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/fc/99/56fc99a2-0fd7-6015-68c4-ffd881aebddc/Placeholder.mill/200x200bb-75.webp",
+  "category": "Action",
+  "isNew": false,
+  "isUpdate": false,
+  "version": "1.0",
+  "firebase-data-usage": true,
+  "message": [
+    "Thank You!! for dowloading the app. Have fun."
+      ],
+  "ads-easy-level-1": true,
+  "ads-easy-level-2": true,
+  "ads-easy-level-3": true
+  
 }
   
 ]
