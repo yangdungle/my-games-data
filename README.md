@@ -6,7 +6,7 @@ use live ad id.
 
 On app refresh from ai studio to Xcode. Open terminal move into the project directory using cd, ls pwd cd.. cd ..
 In terminal run
-npm install
+npm install , or  npm install --legacy-peer-deps
 npm run build
 npx cap sync
 
