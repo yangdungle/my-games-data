@@ -13,14 +13,14 @@
   },
   {
     "id": "NG_2",
-    "title": "Justine's NailArt Studio",
+    "title": "Nails Art Design",
     "description": "Start building your nails art collection.",
     "url": "https://apps.apple.com/ca/app/js-nailart-studio/id6761487441",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/e7/2d/afe72d16-e409-f3e9-de62-dbeae40df3e5/Placeholder.mill/200x200bb-75.webp",
     "category": "Lifestyle",
     "isNew": true,
-    "isUpdate": false,
-    "version": "1.0" 
+    "isUpdate": true,
+    "version": "1.5.0" 
   },
 {
    "id": "NG_3",
@@ -28,7 +28,7 @@
   "description": "Challenging snaping game.",
   "url": "https://apps.apple.com/ca/app/snapkist/id6762061234",
   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/fc/99/56fc99a2-0fd7-6015-68c4-ffd881aebddc/Placeholder.mill/200x200bb-75.webp",
-  "category": "Action",
+  "category": "Game",
   "isNew": true,
   "isUpdate": true,
   "version": "1.7.0",
@@ -40,6 +40,17 @@
   "ads-easy-level-1": true,
   "ads-easy-level-2": true,
   "ads-easy-level-3": true
+  
+},{
+  "id": "com.puppy.app",
+    "title": "Puppy Screen Cleaner",
+    "description": "Virtual pet help clean screen",
+    "url": "https://apps.apple.com/au/app/puppy-screen-cleaner/id6763561955",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/35/2c/ce352ce1-19e6-b4e1-6cec-b59bc4a7d4f2/Placeholder.mill/200x200bb-75.webp",
+    "category": "Game",
+    "isNew": true,
+    "isUpdate": false,
+    "version": "1.0" 
   
 }
 ]
