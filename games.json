@@ -49,8 +49,8 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/35/2c/ce352ce1-19e6-b4e1-6cec-b59bc4a7d4f2/Placeholder.mill/200x200bb-75.webp",
     "category": "Game",
     "isNew": true,
-    "isUpdate": false,
-    "version": "1.0" 
+    "isUpdate": true,
+    "version": "1.6" 
   
 }
 ]
